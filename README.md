@@ -15,4 +15,10 @@
     - Modules
     - Iteractions
     - List comprehensions
+	- Dictionaries
+	- Functions
+	- Debugging errors
+- Lesson #05
+	- String and data operations
+
 
